@@ -25,6 +25,6 @@ This project includes a 15-day conceptual development and planning cycle:
 ---
 
 ### ⚠️ Project Status: Completed (Academic Work)
-**Important Note:** This repository is a *technical exercise* and a *conceptual draft* for academic purposes. It is not a working software product and I am not planning to update it in the future.
+**Important Note:** This repository is a *technical exercise* and a *conceptual draft* for academic purposes. It is not a working software product and I am not planning to update it in the future (for now).
 
 *Prepared by Ali Yiğit Aytin - Biomedical Engineering Student*
